@@ -1,0 +1,20 @@
+.heading{
+    width: 100%;
+    font-size: 30px;
+    text-align: left;
+    margin-top: 0px;
+}
+.heading button{
+    border: 1px solid white;
+    float: right;
+}
+#status,#play{
+    font-size: 20px;
+}
+.modal-dialog{
+width:90%;
+}
+canvas{
+border: 1px solid white;
+box-shadow: 5px 5px 5px grey;
+}
